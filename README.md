@@ -1,5 +1,6 @@
-# thai-paliament-asset-disclosure 🇹🇭
-A repository for Thailand's member of paliament's asset disclosure data
+# Member of Thai's paliament's asset disclosure 🇹🇭
+
+A repository for Thailand's member of paliament's asset disclosure data. Produced and make available online by the Office of National Anti-Corruption Commission (ONACC).
 
 Source: [NACC's Website](https://asset.nacc.go.th/dcs-app/disclosure.jsf)
 * ✅ [25th House of Representative](https://asset.nacc.go.th/dcs-app/disclosure.jsf?reportGroupId=40000&idArray=%2F40000&nameArray=%2F%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3) -  498/500 members available online :  In office since 24th March 2019
